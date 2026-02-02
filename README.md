@@ -1,6 +1,6 @@
 # Merhaba, Ben Esat 👋
 
-## 🚀 Backend Developer | DevOps Gezgini
+## Backend Developer
 
 Ölçeklenebilir ve verimli uygulamalar geliştirmeye odaklanan tutkulu bir backend geliştiriciyim. Modern web teknolojilerinde uzmanlaşıyorum ve yenilikçi projeler oluşturmak için yapay zeka destekli çözümler üzerinde aktif olarak çalışıyorum.
 
